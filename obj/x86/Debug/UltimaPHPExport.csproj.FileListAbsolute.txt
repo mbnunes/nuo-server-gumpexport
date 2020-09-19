@@ -1,0 +1,9 @@
+C:\NUOServer\tools\NUOServerGumpExporter\bin\Debug\NUOServerExport.dll
+C:\NUOServer\tools\NUOServerGumpExporter\bin\Debug\NUOServerExport.pdb
+C:\NUOServer\tools\NUOServerGumpExporter\obj\x86\Debug\NUOServerExport.csprojAssemblyReference.cache
+C:\NUOServer\tools\NUOServerGumpExporter\obj\x86\Debug\NUOServerExport.NUOServerExportForm.resources
+C:\NUOServer\tools\NUOServerGumpExporter\obj\x86\Debug\NUOServerExport.csproj.GenerateResource.cache
+C:\NUOServer\tools\NUOServerGumpExporter\obj\x86\Debug\NUOServerExport.csproj.CoreCompileInputs.cache
+C:\NUOServer\tools\NUOServerGumpExporter\obj\x86\Debug\NUOServerExport.csproj.CopyComplete
+C:\NUOServer\tools\NUOServerGumpExporter\obj\x86\Debug\NUOServerExport.dll
+C:\NUOServer\tools\NUOServerGumpExporter\obj\x86\Debug\NUOServerExport.pdb
